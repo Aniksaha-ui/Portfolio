@@ -12,8 +12,8 @@ h1{
 }
 
 section{
-    
      display: flex;
+     margin-bottom:150px;
 }
 
 .top-banner{
@@ -39,3 +39,11 @@ section{
     font-weight: 700;
     color: white;
 }
+
+
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position:right;
+}
+
